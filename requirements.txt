@@ -1,0 +1,12 @@
+streamlit==0.88.0
+numpy==1.19.5
+webcolors==1.11.1
+pywhatkit==5.1
+transformers==4.11.0
+gtts==2.2.3
+link_button==1.0.0
+Pillow==8.3.2
+qrcode==7.3
+streamlit_ace==0.1.0
+streamlit_lottie==0.0.2
+wordcloud==1.8.1
